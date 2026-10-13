@@ -1,3 +1,7 @@
+> [!NOTE]
+> **This is an unofficial variant (`myspeed-hostnet`)** of [gnmyt/myspeed](https://github.com/gnmyt/myspeed), adapted for running with Docker `network_mode: host`.
+> See [HOSTNET.md](HOSTNET.md) for what changed and how to use the images.
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
